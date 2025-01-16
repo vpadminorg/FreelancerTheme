@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
+  <link href="/FreelancerTheme/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/FreelancerTheme/" rel="alternate" type="text/html" />
+  <updated>2025-01-16T14:49:58+00:00</updated>
+  <id>/FreelancerTheme/</id>
+
+  
+    <title type="html">Freelancer</title>
+  
+
+  
+    <subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Project 1</title>
+      <link href="/FreelancerTheme/" rel="alternate" type="text/html" title="Project 1" />
+      <published>2014-07-18T00:00:00+00:00</published>
+      <updated>2014-07-18T00:00:00+00:00</updated>
+      <id>/FreelancerTheme/project-1</id>
+      <content type="html" xml:base="/FreelancerTheme/">&lt;div class=&quot;vpadmin-upgrade-container&quot; data-platform=&quot;ko-fi&quot; data-payment-type=&quot;donation&quot; data-text=&quot;Support Me Demo Button&quot; data-url=&quot;https://ko-fi.com/vpadmin/?hidefeed=true&amp;amp;widget=true&amp;amp;embed=true&amp;amp;preview=true&quot; data-name=&quot;Premium Subscription&quot; data-need-login=&quot;true&quot; data-size=&quot;default&quot;&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+    function initUpgradeButtons() {
+        const containers = document.querySelectorAll(&apos;.vpadmin-upgrade-container&apos;);
+        containers.forEach(container =&gt; {
+            const config = {
+                paymentPlatform: container.dataset.platform,
+                paymentType: container.dataset.paymentType,
+                buttonText: container.dataset.text,
+                iframeUrl: container.dataset.url,
+                paymentName: container.dataset.name,
+                needLogin: container.dataset.needLogin,
+                size: container.dataset.size,
+                container: container
+            };
+
+            try {
+                const upgradeButton = createUpgradeButton(config);
+                // upgradeButton.show();
+            } catch (error) {
+                console.error(&apos;Error creating upgrade button:&apos;, error);
+            }
+        });
+    }
+
+    window.addEventListener(&apos;vpadminInitialized&apos;, initUpgradeButtons);
+
+    if (window.createUpgradeButton) {
+        initUpgradeButtons();
+    }
+&lt;/script&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 2</title>
+      <link href="/FreelancerTheme/" rel="alternate" type="text/html" title="Project 2" />
+      <published>2014-07-17T00:00:00+00:00</published>
+      <updated>2014-07-17T00:00:00+00:00</updated>
+      <id>/FreelancerTheme/project-2</id>
+      <content type="html" xml:base="/FreelancerTheme/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 3</title>
+      <link href="/FreelancerTheme/" rel="alternate" type="text/html" title="Project 3" />
+      <published>2014-07-16T00:00:00+00:00</published>
+      <updated>2014-07-16T00:00:00+00:00</updated>
+      <id>/FreelancerTheme/project-3</id>
+      <content type="html" xml:base="/FreelancerTheme/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 4</title>
+      <link href="/FreelancerTheme/" rel="alternate" type="text/html" title="Project 4" />
+      <published>2014-07-15T00:00:00+00:00</published>
+      <updated>2014-07-15T00:00:00+00:00</updated>
+      <id>/FreelancerTheme/project-4</id>
+      <content type="html" xml:base="/FreelancerTheme/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 6</title>
+      <link href="/FreelancerTheme/" rel="alternate" type="text/html" title="Project 6" />
+      <published>2014-07-15T00:00:00+00:00</published>
+      <updated>2014-07-15T00:00:00+00:00</updated>
+      <id>/FreelancerTheme/project-6</id>
+      <content type="html" xml:base="/FreelancerTheme/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 5</title>
+      <link href="/FreelancerTheme/" rel="alternate" type="text/html" title="Project 5" />
+      <published>2014-07-14T00:00:00+00:00</published>
+      <updated>2014-07-14T00:00:00+00:00</updated>
+      <id>/FreelancerTheme/project-5</id>
+      <content type="html" xml:base="/FreelancerTheme/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Web Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
